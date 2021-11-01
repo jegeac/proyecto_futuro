@@ -2,6 +2,7 @@ package chema.egea.canales;
 
 public class Main {
 
+    //Chema Egea
     public static void main(String[] args) {
 	// write your code here
         System.out.println("Estudiante "+args[0]+" : "+veredicto(args[1], args[2]));
